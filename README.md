@@ -22,4 +22,7 @@ Aplikasi ini menggunakan **HTML**, **CSS**, dan **JavaScript**
 ✅ Pencarian buku secara real-time  
 ✅ Penyimpanan data menggunakan `localStorage`
 
+## 🌐 Live Demo
+https://fahrizaness.github.io/Bookshelf-App/
+
 
